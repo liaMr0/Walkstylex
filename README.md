@@ -1,4 +1,4 @@
-# tienda_zapatos
+# Walkstylex
 
 A new Flutter project.
 
